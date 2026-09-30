@@ -1,0 +1,6 @@
+{
+  "name": "ClipBook",
+  "description": "Plataforma de red social moderna, segura y profesional con publicaciones, historias, mensajería, grupos, páginas, verificación y códigos de regalo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
